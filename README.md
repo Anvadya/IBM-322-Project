@@ -6,7 +6,10 @@ stats_analysis.ipynb - Logistic Regression, SVM and MLP classifier on ball by ba
 stats_analysis_with_pca.ipynb - Logistic Regression, SVM and MLP classifier on ball by ball features on dataset post PCA.
 
 ## FormAnalysis
-We create a model and perform Bigram and Trigram analysis on the dataset. 
+FormAnalysis.ipynb: We create a class to perform (general n-gram) Bigram and Trigram analysis on the dataset. 
+
+## Classification (ball granularity)
+prediction.ipynb: This file contains code to merge the outputs of stat analysis and form analysis together and computes the various different probabilities using several models. 
 
 ## Overs analysis (Predicting run in an over)
 Over_Grouping.ipynb - Converting Dataset in the format desired for overwise prediction.
