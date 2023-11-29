@@ -1,6 +1,6 @@
 # IBM-322-Project
 
-## Stats_Analysis (Predicting run and wicket on next ball based on statistics)
+## Stats Analysis (Predicting run and wicket on next ball based on statistics)
 stats_analysis.ipynb - Logistic Regression, SVM and MLP classifier on ball by ball features.
 
 stats_analysis_with_pca.ipynb - Logistic Regression, SVM and MLP classifier on ball by ball features on dataset post PCA.
